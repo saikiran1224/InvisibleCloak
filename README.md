@@ -16,7 +16,7 @@ This project is developed using Open CV and NumPy Libraries. This project is ins
 
  1. First clone the repository using the Link provided by clicking the **Clone** Button on the top
  2. Open your git terminal and type the following command 
-   ``` git clone <url-provided-clone-button> ```
+   ``` git clone https://github.com/saikiran1224/InvisibleCloak.git ```
  3. Now open the local Directory and open the CMD (Command Shell Prompt to the specifed path)
  4. Type ``` flask run ``` command
  
